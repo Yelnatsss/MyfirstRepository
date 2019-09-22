@@ -37,8 +37,7 @@
 -  `in`操作在优先将`list`转`set`
 
 ## 参考答案
-### 参考答案1
-
+### 参考代码1
 ```python
 from collections import deque# 优先考虑 collections 而不是queue中队列
 from typing import List
